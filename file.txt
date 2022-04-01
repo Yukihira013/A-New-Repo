@@ -1,0 +1,1 @@
+"File B with some other stuff"
