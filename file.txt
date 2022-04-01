@@ -1,1 +1,1 @@
-"File A with some stuff"
+some stuff
